@@ -1,2 +1,0 @@
-module StaticPahesHelper
-end
